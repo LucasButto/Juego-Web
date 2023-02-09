@@ -10,7 +10,7 @@ This project is a game of skill and speed where the goal is to score points by h
 
 ## Usage Instructions
 
-1. Clone or download this repository to your computer.
+1. Clone this repository to your computer.
 2. Open the `index.html` file in a web browser.
 3. Hover over the circle to score points.
 4. Try to reach 30 points before the time runs out.
